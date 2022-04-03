@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Engsamia
-- 👀 I’m interested in writing and Al searching.
-- 🌱 I’m currently learning ERP with python.
-- 📫 you can  reach me just by my email 
--  Android java devloper
-- I was working on devlopment windows system use C#
+- Hi, I’m Samia Alshehri
+- I’m interested in writing and Al searching.
+-I’m currently learning ERPnext .
+- You can  reach me just by my email alshehri2engsam@gmail.com
+- I  worked on devlopment windows system use C#
 
